@@ -20,3 +20,16 @@ console.log(os.homedir());
 
 // Uptime
 console.log(os.uptime());
+
+// Platform Release
+console.log(os.release())
+
+// Default Directory for Temporary Files
+console.log(os.tmpdir())
+
+// Platform Type
+console.log(os.type())
+
+// Current User Info
+console.log(os.userInfo())
+
